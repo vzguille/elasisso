@@ -1,0 +1,4 @@
+xxx  ! Number of test-materials in the file predict.dat
+8  ! Number of features in the file predict.dat
+4  ! Highest dimension of the models to be read from SISSO.out
+1  ! Property type 1:continuous or 2:categorical
