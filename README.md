@@ -22,8 +22,7 @@ corresponding author: guillermo.vazquez@tamu.edu
 
 notebooks:
 
-
-  -CV Resultsmini.ipynb, plots Cross-Validation results and does a feature frequency analysis
-  -SISSO_function.ipynb, runs the SISSO models in a 10,000 random sampling in the MoNbTaVW system
-  -yield_strength.ipynb, runs the correlation of strength, C_11 and E with various features and variances
+- CV Resultsmini.ipynb, plots Cross-Validation results and does a feature frequency analysis
+- SISSO_function.ipynb, runs the SISSO models in a 10,000 random sampling in the MoNbTaVW system
+- yield_strength.ipynb, runs the correlation of strength, C_11 and E with various features and variances
  
