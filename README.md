@@ -7,3 +7,15 @@
 We present descriptor-based models for the accelerated assessment of technologically useful
 properties such as stiffness matrix, elastic moduli, ductility, and strength of high-entropy
 alloys.
+
+
+
+Guillermo Vazquez Texas, A&M University
+Prashant Singh, Ames Laboratory
+Daniel Sauceda, Texas A&M University
+Richard Couperthwaite, Texas A&M University
+Khaled Youssef, Qatar University
+Duane D. Johnson, Ames Laboratory
+Raymundo Arroyave, Texas A&M University
+
+corresponding author: guillermo.vazquez@tamu.edu
