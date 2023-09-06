@@ -26,3 +26,4 @@ notebooks:
 - SISSO_function.ipynb, runs the SISSO models in a 10,000 random sampling in the MoNbTaVW system
 - yield_strength.ipynb, runs the correlation of strength, C_11 and E with various features and variances
  
+Copy of codeocean published capsule <https://codeocean.com/capsule/0209216/tree/v1>
